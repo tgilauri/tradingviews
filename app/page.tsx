@@ -1,6 +1,6 @@
 "use client";
 import React from 'react'
-import {Col, Layout, Row, Segmented} from "antd";
+import {Col, Layout, Row} from "antd";
 import DataBlock from "@/app/components/Block/DataBlock";
 
 export default function Home() {

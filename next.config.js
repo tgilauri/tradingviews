@@ -4,7 +4,7 @@ const {config} = require('dotenv')
 const {parsed} = config()
 
 const nextConfig = {
-    env: parsed
+  env: parsed
 }
 
 module.exports = nextConfig
