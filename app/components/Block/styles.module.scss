@@ -1,0 +1,14 @@
+.block {
+  min-height: 350px;
+  margin-bottom: 24px;
+  padding: 16px 8px;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  &Title {
+    display: flex;
+    justify-content: space-between;
+  }
+  &Content {
+    margin-top: 8px;
+  }
+}
